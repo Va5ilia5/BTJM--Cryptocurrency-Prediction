@@ -19,6 +19,7 @@ We will focus on analyzing and predicting the 6 cryptocurrencies that blew up du
 - Data Mining
 - Practical Statistics (i.e. applying inferential statistics and probability to real-world scenarios, like analyzing A/B tests.)
 - Data Visualization to draw meaningful conclusions
+- Linear regression
 
 ### Technical Skills utilized
 - Python
@@ -26,4 +27,3 @@ We will focus on analyzing and predicting the 6 cryptocurrencies that blew up du
 - Data Visualization libraries (Matplotlib, Seaborn)
 - Microsoft Excel
 - Jupyter Notebooks
-- SQL
